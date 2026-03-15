@@ -78,7 +78,7 @@ Dữ liệu được ghi chứ ở trong file TestCase.xlxs.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-© 2025 [Nhóm 7 Đồ án Đa nền tảng 67CS2].
+© 2025 [Food Ordering App].
 
 
 
