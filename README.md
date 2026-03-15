@@ -1,12 +1,7 @@
 # <img width="50" alt="login" src="https://github.com/user-attachments/assets/79247a8a-20a7-4eaa-8029-8cd01302ecc6" /> Ứng dụng bán đồ ăn trực tuyến
-# Nhóm 7: 
-Thành Viên:
-## Đào Xuân Hậu - 0072767
-## Hoàng Khắc Anh Nhật -0203767
 ## Nguyễn Đăng Tú - 0109367
-## Trần Đoàn Quang Vũ - 0088667
 
-Đây là ứng dụng đồ ăn được phát triển trong khuôn khổ môn học **Lập trình đa nền tảng**. Ứng dụng cho phép người dùng đặt mua đồ ăn, quản lý đơn hàng và thông tin cá nhân một cách thuận tiện trên thiết bị di động.
+Đây là ứng dụng đồ ăn được phát triển sử dụng kiến thức từ môn học **Lập trình đa nền tảng**. Ứng dụng cho phép người dùng đặt mua đồ ăn, quản lý đơn hàng và thông tin cá nhân một cách thuận tiện trên thiết bị di động.
 
 ## 1.🚀 Tổng quan
 
